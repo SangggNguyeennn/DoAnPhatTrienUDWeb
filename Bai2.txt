@@ -1,4 +1,3 @@
-Bài 2:
 Enable-Migrations
 là một lệnh trong Entity Framework, được sử dụng để kích hoạt chức năng quản lý phiên bản của 
 Entity Framework trong một dự án ASP.NET hoặc .NET Framework. Khi đã kích hoạt, chức năng này cho 

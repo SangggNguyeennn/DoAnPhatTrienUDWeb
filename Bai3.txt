@@ -1,15 +1,13 @@
-Bài 3:
- 17:50
- CKEditor và CKFinder là hai công cụ phổ biến trong việc phát triển web và quản lý nội dung.
+CKEditor và CKFinder là hai công cụ phổ biến trong việc phát triển web và quản lý nội dung.
 
- CKEditor là một trình soạn thảo văn bản HTML được tích hợp vào các trang web để cho phép người 
- dùng dễ dàng tạo, chỉnh sửa và định dạng nội dung trên trang web. CKEditor có nhiều tính năng 
- hữu ích, bao gồm hỗ trợ Unicode, tạo bảng, danh sách, chèn hình ảnh và video, tạo liên kết và 
- nhiều hơn nữa.
+CKEditor là một trình soạn thảo văn bản HTML được tích hợp vào các trang web để cho phép người 
+dùng dễ dàng tạo, chỉnh sửa và định dạng nội dung trên trang web. CKEditor có nhiều tính năng 
+hữu ích, bao gồm hỗ trợ Unicode, tạo bảng, danh sách, chèn hình ảnh và video, tạo liên kết và 
+nhiều hơn nữa.
 
- CKFinder là một trình quản lý tệp tin được sử dụng để quản lý tệp tin trên trang web. CKFinder 
- cho phép người dùng tải lên, xóa và sắp xếp các tệp tin trên trang web một cách dễ dàng. 
- CKFinder hỗ trợ nhiều định dạng tệp tin, bao gồm hình ảnh, âm thanh, video và tài liệu văn bản.
+CKFinder là một trình quản lý tệp tin được sử dụng để quản lý tệp tin trên trang web. CKFinder 
+cho phép người dùng tải lên, xóa và sắp xếp các tệp tin trên trang web một cách dễ dàng. 
+CKFinder hỗ trợ nhiều định dạng tệp tin, bao gồm hình ảnh, âm thanh, video và tài liệu văn bản.
 
- Tổng quan, CKEditor và CKFinder là hai công cụ hữu ích để tăng cường tính năng của trang web và 
- cải thiện trải nghiệm người dùng.
+Tổng quan, CKEditor và CKFinder là hai công cụ hữu ích để tăng cường tính năng của trang web và 
+cải thiện trải nghiệm người dùng.
