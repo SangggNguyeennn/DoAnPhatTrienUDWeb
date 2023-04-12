@@ -1,0 +1,17 @@
+Bài 2:
+Enable-Migrations
+là một lệnh trong Entity Framework, được sử dụng để kích hoạt chức năng quản lý phiên bản của 
+Entity Framework trong một dự án ASP.NET hoặc .NET Framework. Khi đã kích hoạt, chức năng này cho 
+phép bạn quản lý các phiên bản của cơ sở dữ liệu, bao gồm các phiên bản khởi đầu (initial 
+migration) và các phiên bản thay đổi sau này (subsequent migration).
+
+Khi bạn chạy lệnh "Enable-Migrations" trong Package Manager Console của Visual Studio, Entity 
+Framework sẽ tạo ra một tệp cấu hình migration (Configuration.cs) trong thư mục Migrations của 
+dự án của bạn. Tệp này chứa thông tin về cách Entity Framework phải quản lý các phiên bản cơ sở 
+dữ liệu và các bảng trong cơ sở dữ liệu.
+
+Sau khi đã kích hoạt chức năng quản lý phiên bản, bạn có thể sử dụng các lệnh "Add-Migration" và 
+"Update-Database" để thêm các phiên bản mới vào cơ sở dữ liệu hoặc cập nhật phiên bản hiện có 
+trong cơ sở dữ liệu. Bằng cách sử dụng chức năng quản lý phiên bản của Entity Framework, bạn có 
+thể theo dõi các thay đổi trong cơ sở dữ liệu của mình và bảo đảm rằng các phiên bản mới sẽ được 
+áp dụng một cách an toàn và chính xác.

@@ -1,0 +1,35 @@
+Bài 1: Phân tích cơ sở dữ liệu
+1:00:35
+[Key]
+[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+Làm key(Id) tự tăng
+[Key] và [DatabaseGenerated(DatabaseGeneratedOption.Identity)] là hai thuộc tính trong Entity 
+Framework, một công nghệ ORM (Object-Relational Mapping) cho phép truy cập cơ sở dữ liệu quan 
+hệ bằng cách sử dụng đối tượng trong ứng dụng của bạn.
+
+[Key] được sử dụng để chỉ định thuộc tính của một đối tượng là khóa chính của nó. Khóa chính là 
+một thuộc tính hoặc một tập hợp các thuộc tính mà xác định duy nhất một đối tượng trong cơ sở dữ 
+liệu. Khi xác định khóa chính, Entity Framework có thể tối ưu hóa các câu truy vấn cơ sở dữ liệu 
+và các hoạt động khác liên quan đến đối tượng.
+
+[DatabaseGenerated(DatabaseGeneratedOption.Identity)] được sử dụng để chỉ định rằng giá trị của 
+thuộc tính sẽ được tạo tự động bởi cơ sở dữ liệu. Thường được sử dụng cho khóa chính (primary key)
+của bảng, thuộc tính được đánh dấu với [DatabaseGenerated(DatabaseGeneratedOption.Identity)] sẽ 
+tự động được tạo ra khi thêm một bản ghi mới vào cơ sở dữ liệu. Điều này giúp đảm bảo rằng giá trị
+khóa chính của các bản ghi mới được tạo một cách độc lập và duy nhất.
+1:01:56
+[Required()]
+Bắt buộc nhập == NotNull
+[Required()] là một thuộc tính trong Entity Framework, nó được sử dụng để chỉ định rằng một thuộc 
+tính của đối tượng là bắt buộc (không được phép null). Khi một đối tượng được thêm vào cơ sở dữ 
+liệu, nếu thuộc tính được đánh dấu với [Required()] không có giá trị, Entity Framework sẽ phát 
+sinh lỗi và không cho phép lưu đối tượng vào cơ sở dữ liệu.
+1:02:46
+[StringLength()]
+Giới hạn độ dài ký tự
+[StringLength()] là một thuộc tính trong Entity Framework, được sử dụng để chỉ định độ dài tối đa 
+của một chuỗi trong một thuộc tính của đối tượng. Thuộc tính này được sử dụng để kiểm tra tính hợp 
+lệ của dữ liệu được nhập vào cho thuộc tính đó.
+1:20:12
+public DbSet<Category> Categories { get; set; }
+Khai báo bảng 
