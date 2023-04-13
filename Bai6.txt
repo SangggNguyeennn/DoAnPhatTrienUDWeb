@@ -1,0 +1,1 @@
+PageList cung cấp các thuộc tính hữu ích khi xây dựng các điều khiển phân trang giao diện người dùng.
