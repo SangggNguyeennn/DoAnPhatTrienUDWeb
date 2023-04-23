@@ -1,0 +1,8 @@
+Tổng kết:
+Tạo ProductsController
+Tạo view index, add của ProductsController
+Tạo ProductCategoryController
+Tạo view index, add của ProductCategoryController
+Sửa một số db và update db
+Hoàn thành chức năng thêm danh mục sản phẩm
+Chưa hoàn thành chức năng thêm sản phẩm

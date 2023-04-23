@@ -1,1 +1,6 @@
 fontawesome.com (Web html của các icon )
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo view edit của NewsController
+Hoàn thành chức năng sửa, xóa tin tức
+Sửa một số db

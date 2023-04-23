@@ -33,4 +33,13 @@ lệ của dữ liệu được nhập vào cho thuộc tính đó.
 
 
 public DbSet<Category> Categories { get; set; }
-Khai báo bảng 
+Lưu trữ các đối tượng Category trong bảng dữ liệu có tên là Categories 
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo phân vùng admin
+Tạo bootstarp, css, js, jquery... vào content
+Tạo HomeController
+Tạo view _Layout, _PartialSideBar
+Tạo view index, của HomeController
+Tạo folder EF để chứa các model 
+Lưu trữ các đối tượng model trong bảng dữ liệu

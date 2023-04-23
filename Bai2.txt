@@ -14,3 +14,11 @@ Sau khi đã kích hoạt chức năng quản lý phiên bản, bạn có thể 
 trong cơ sở dữ liệu. Bằng cách sử dụng chức năng quản lý phiên bản của Entity Framework, bạn có 
 thể theo dõi các thay đổi trong cơ sở dữ liệu của mình và bảo đảm rằng các phiên bản mới sẽ được 
 áp dụng một cách an toàn và chính xác.
+-------------------------------------------------------------------------------------------------
+Tổng kết:
+Update vào MySQL bằng lệnh trong Nuget
+Tạo CategoryController
+Tạo View index, add, edit của CategoryController
+Hoàn thành chức năng thêm, sửa danh mục
+Sửa db của các model và dùng lệnh để update MySQL
+Tạo 1 folder common để Convert tiếng việt có dâu thành không dấu

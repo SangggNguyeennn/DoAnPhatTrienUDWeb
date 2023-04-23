@@ -1,1 +1,8 @@
 PageList cung cấp các thuộc tính hữu ích khi xây dựng các điều khiển phân trang giao diện người dùng.
+-----------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo PostsController
+Tạo view index,add,edit của PostsController
+Hoàn thành chức năng thêm, sửa, xóa bài viết
+Sửa một số db và update lại db
+Hoàn thành chức năng phân trang tin tức

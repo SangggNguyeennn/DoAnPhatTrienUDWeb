@@ -1,0 +1,7 @@
+Autonumberic cho phép người dùng nhập dữ liệu số một cách thuận tiện hơn, có thể định dạng và 
+hiển thị số theo định dạng mong muốn, bao gồm số tiền tệ, phần trăm, số lượng thập phân và các 
+phương thức khác.
+----------------------------------------------------------------------------------------------
+Tổng kết:
+Hoàn thành thêm, xóa hình ảnh trong chức năng thêm của sản phẩm
+Sử dụng autonumberic để ngăn cách cho giá sản phẩm

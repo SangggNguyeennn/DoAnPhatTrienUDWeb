@@ -11,3 +11,10 @@ CKFinder hỗ trợ nhiều định dạng tệp tin, bao gồm hình ảnh, âm
 
 Tổng quan, CKEditor và CKFinder là hai công cụ hữu ích để tăng cường tính năng của trang web và 
 cải thiện trải nghiệm người dùng.
+-----------------------------------------------------------------------------------------------
+Tổng kết:
+Hoàn thành chức năng xóa danh mục
+Tạo NewsController
+Tạo view index, add của NewsController
+Hoàn thành chức năng thêm tin tức
+Sửa db của News
