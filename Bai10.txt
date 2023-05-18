@@ -1,0 +1,7 @@
+Ghép giao diện trang chủ người dùng
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo một folder assets trong Content để thêm images, js...
+Tạo Controller Menu, Products
+Tạo View _MenuTop, _MenuProductCategory cho Menu 
+Tạo View Partial_ItemsByCateId, Partial_ProductSales cho Products

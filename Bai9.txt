@@ -1,0 +1,9 @@
+Tạo một ProductImagesController
+Tạo _LayoutEmpty
+Sử dụng fontawesome để lấy icon
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Chỉnh sửa một số db
+Update lại db
+Hoàn thành chức năng thêm, sửa, xóa sản phẩm
+Hoàn thành chức năng khi nhấn vào hình ảnh có thể thêm, xóa hình ảnh sản phẩm

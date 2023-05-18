@@ -1,0 +1,7 @@
+Chi tiết sản phẩm, Giỏ hàng
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Hoàn thành chức năng nhấn vào sản phẩm sẽ hiện chi tiết sản phẩm
+Tạo View Detail trong Products
+Tạo jsShopping.js trong Scripts
+Tạo Model mới là ShoppingCart.cs

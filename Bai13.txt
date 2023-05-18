@@ -1,0 +1,7 @@
+Tiếp tục phần Giỏ hàng
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo ShoppingCart trong Controller 
+Hoàn thành chức năng thêm sản phẩm vào giỏ hàng
+Hoàn thánh chức năng xóa một sản phẩm trong giỏ hàng
+Hoàn thành trang Giỏ hàng

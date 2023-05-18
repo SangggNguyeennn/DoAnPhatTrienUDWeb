@@ -1,0 +1,11 @@
+Tạo Route, tạo trang danh mục sản phẩm 
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Hàon thành chức năng chuyển trang được sang trang liên hệ, trang sản phẩm
+Trong trang sản phẩm chuyển trang sang các danh mục sản phẩm
+Tạo view index, ProductCategory trong Products
+Sửa một số db
+Tạo ContactController
+Tạo view Index trong Contact
+Tạo view _MenuLeft trong Menu
+//Chức năng tìm sản phẩm theo giá chưa hoàn thành

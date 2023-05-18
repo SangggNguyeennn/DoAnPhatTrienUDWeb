@@ -1,0 +1,5 @@
+Xóa, Cập nhật Giỏ hàng, Form thanh toán
+--------------------------------------------------------------------------------------------------
+Chức năng Update số lượng
+Chứ năng Thanh toán
+Hoàn thành chức năng xóa tất cả sản phẩm trong giỏ hàng
