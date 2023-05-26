@@ -1,5 +1,7 @@
 Xóa, Cập nhật Giỏ hàng, Form thanh toán
 --------------------------------------------------------------------------------------------------
-Chức năng Update số lượng
-Chứ năng Thanh toán
+Hoàn thành chức năng Update số lượng
+Hoàn thành trang Thanh toán
 Hoàn thành chức năng xóa tất cả sản phẩm trong giỏ hàng
+Tạo một view CheckOut trong ShoppingCart
+Tạo một model CustomerViewModel

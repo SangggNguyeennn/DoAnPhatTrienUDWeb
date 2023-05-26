@@ -1,0 +1,6 @@
+Hiển thị danh sách tin tức trang Tin 
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo view Index, Detail trong News
+Hoàn thành chức năng hiển thị danh sách tin tức
+Hoàn thành chức năng xem chi tiết tin tức

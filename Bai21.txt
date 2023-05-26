@@ -1,0 +1,6 @@
+Đăng ký email, Đăng ký và đăng nhập
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo view Partial_Subcrice trong Home
+Hoàn thành chức năng đăng ký email
+Hoàn thành chức năng đăng nhập và đăng xuất

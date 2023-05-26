@@ -1,0 +1,8 @@
+Phân quyền và Login trang Quản trị 
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo RoleController, AccoutController trong Admin
+Tạo view Index, Create trong Role
+Tạo view Index, Create, Login trong Account
+Hoàn thành chức năng phân quyền
+Có thể đăng nhập và đăng xuất trang Quản trị 

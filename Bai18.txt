@@ -1,0 +1,5 @@
+Quản lý và cập nhật đơn hàng trang Admin
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Tạo OrderController trong Admin
+Tạo view Index, View, Partial_SanPham cho Order

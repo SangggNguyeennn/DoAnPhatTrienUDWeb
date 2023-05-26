@@ -1,0 +1,13 @@
+Cấu hình hệ thống trang chủ
+Microsoft.jQuery.Unobtrusive.Ajax 
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Chức năng đăng ký đang nhập trang Người dùng
+Chức năng nhận thông tin từ email
+Tạo ViewController trong Controllers Admin
+Tạo view Partial_Setting, Index trong SettingSystem
+Tạo SettingSystemViewModel trong Model
+Tạo ViewController trong Controllers
+Tạo view Partial_News_Home, Index, Detail trong News
+Cấu hình thông tin của shop 
+Download Microsoft.jQuery.Unobtrusive.Ajax

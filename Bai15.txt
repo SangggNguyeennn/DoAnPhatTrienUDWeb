@@ -1,0 +1,7 @@
+Đặt hàng thành công
+--------------------------------------------------------------------------------------------------------
+Tổng kết:
+Hoàn thành chức năng đặt hàng
+Sửa lại db Order và update lại db
+Tạo một Model OrderViewModel
+Tạo view Partial_CheckOut, Partial_Item_ThanhToan, Partial_Item_Cart, CheckOutSuccess trong ShoppingCart

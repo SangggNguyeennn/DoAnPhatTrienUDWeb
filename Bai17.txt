@@ -1,0 +1,7 @@
+Gửi mail khi đặt hàng thành công
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Cấu hình Web.config 
+Thiết kế 2 template cho gửi mail(Quản trị với khách hàng)
+Sửa một số db và update db
+Hoàn thành chức năng gửi mail khi đặt hàng thành công

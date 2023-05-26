@@ -8,4 +8,3 @@ Sửa một số db
 Tạo ContactController
 Tạo view Index trong Contact
 Tạo view _MenuLeft trong Menu
-//Chức năng tìm sản phẩm theo giá chưa hoàn thành

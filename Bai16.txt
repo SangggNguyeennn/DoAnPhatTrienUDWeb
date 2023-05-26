@@ -1,0 +1,7 @@
+Chức năng đếm số lượt truy cập
+--------------------------------------------------------------------------------------------------
+Tổng kết:
+Hoàn thành chức năng tăng số view khi xem
+Sửa lại db Order và update lại db
+Tạo Model ThongKe trong EF
+Tạo Model ThongKeViewModel
